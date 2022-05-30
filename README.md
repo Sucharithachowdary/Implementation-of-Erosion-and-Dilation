@@ -43,11 +43,11 @@ cv2.destroyAllWindows()
 ## Output:
 
 ### Display the input Image
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Implementation-of-Erosion-and-Dilation/blob/main/name.jpg?raw=true)
 ### Display the Eroded Image
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Implementation-of-Erosion-and-Dilation/blob/main/name%202.jpg?raw=true)
 ### Display the Dilated Image
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Implementation-of-Erosion-and-Dilation/blob/main/name%203.jpg?raw=true)
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.

@@ -28,7 +28,7 @@ import cv2
 import numpy
 NameImage = numpy.zeros((100,1000),dtype='uint8')
 font = cv2.FONT_ITALIC
-cv2.putText(NameImage,'Sai Bandhavi',(50,70),font,2,(255),5,cv2.LINE_4)
+cv2.putText(NameImage,'Sucharitha',(50,70),font,2,(255),5,cv2.LINE_4)
 cv2.imshow("Name Image",NameImage)
 kernel1 = cv2.getStructuringElement(cv2.MORPH_CROSS,(7,7))
 erodeImage = cv2.erode(NameImage,kernel1)
